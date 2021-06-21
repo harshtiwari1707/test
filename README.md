@@ -1,4 +1,4 @@
 Hello there we are here!!
 welcome to our test repo !!
-We are resolving a conflict
+Line added from bug_fix Branch !!
 # test
