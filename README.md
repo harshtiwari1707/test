@@ -1,4 +1,5 @@
 Hello there we are here!!
+<<<<<<< HEAD
 welcome to our test repo !!
-Line added from bug_fix Branch !!!!
-# test
+welcome to our test repo !
+This line is added in new_branch !!
